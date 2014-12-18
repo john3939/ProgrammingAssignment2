@@ -1,6 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
-
+## R Programming Assignment 2
+## 
 ## given a matrix, return an object which has the matrix along with ability to cache its inverse.
 ## also define methods as functions- set (store the matrix),
 ##				 get (get the original matrix),
