@@ -1,6 +1,7 @@
 ## R Programming Assignment 2
 ## 
-## given a matrix, return an object which has the matrix along with ability to cache its inverse.
+## given a matrix, return an object which has the matrix along with
+## ability to cache its inverse for later retrieval without computation.
 ## also define methods as functions- set (store the matrix),
 ##				 get (get the original matrix),
 ##				 setInverse (store the Inverse),
